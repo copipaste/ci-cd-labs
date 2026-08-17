@@ -35,3 +35,8 @@ jobs:
 
       - name: Finalizar pipeline
         run: echo "Pipeline ejecutado correctamente."
+
+      - name: Simular fallo de validacion
+        run: |
+          echo "Error: validacion fallida intencionalmente"
+          exit 1
