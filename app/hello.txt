@@ -1,0 +1,2 @@
+Hola Mundo desde el Laboratorio 1 de CI/CD!
+Este es el archivo hello.txt dentro del directorio app/.
